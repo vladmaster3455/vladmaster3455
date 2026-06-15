@@ -1,20 +1,20 @@
-# Salut 👋
+# Serge Senghor
 
-Je suis Serge Senghor, développeur backend et mobile basé à Dakar.
+Développeur backend et mobile basé à Dakar, Sénégal.
 
-## Ce que je fais
+## Stack
 
-- **Backend** : Python (Django, FastAPI), Node.js (Express), Java (Spring Boot)
-- **Mobile** : React Native / Expo, Android natif
-- **Données** : PostgreSQL, MongoDB, Redis
-- **ML / Data** : scikit-learn, Streamlit, pipelines de détection d'intrusion
+- Backend : Python (Django, FastAPI), Node.js (Express), Java (Spring Boot), C#
+- Mobile : React Native / Expo, Android natif
+- Données : PostgreSQL, MongoDB, Prisma, Kafka, Redis
+- Dev / Ops : Docker, GitHub Actions, CI, Vercel, Streamlit, Keycloak
 
-## Projets notables
+## Projets
 
-- `yango-backend` — API REST d'une app de mobilité (courses, historique, auth par PIN)
-- `bank_microservice` — plateforme bancaire microservices (Spring Cloud, Kafka, Keycloak)
-- `monshop` — e-commerce Next.js avec paiement Dexpay (Wave, Orange Money)
-- `network` — réseau social professionnel Django (profils, posts, messagerie)
-- `vision-lab-streamlit` — outils de vision par ordinateur déployés sur Streamlit
+- yango-backend — API REST d'une app de mobilité (courses, historique, auth par PIN, Cloudinary)
+- bank_microservice — plateforme bancaire en microservices (Spring Cloud, Kafka, Keycloak, outbox)
+- monshop — e-commerce Next.js/Prisma avec paiement Wave et Orange Money (Dexpay)
+- network — réseau social professionnel Django (profils, posts, messagerie, notifications)
+- vision-lab-streamlit — outils de vision par ordinateur déployés sur Streamlit Cloud
 
-Plusieurs projets sont des travaux de fin de formation ou des démos. N'hésite pas à regarder les README de chaque repo pour les détails.
+Détails et instructions pour chaque projet dans le README du repo correspondant.
