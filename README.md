@@ -26,5 +26,5 @@ Ingénieur logiciel full-stack et praticien en science des données, diplômé d
 ## Vue d'ensemble
 
 - Portfolio : [senghorserge.me](https://senghorserge.me)
-- Localisation : Dakar, Sénégal
+
 - Statut : ouvert aux CDI, CDD et missions freelance, en remote ou sur site
