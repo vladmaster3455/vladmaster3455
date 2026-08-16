@@ -1,30 +1,106 @@
-# Serge Senghor
+<div align="center">
+  <h1>Serge Senghor</h1>
+  <p><strong>Ingénieur logiciel full-stack · Data & IA</strong></p>
+  <p>Dakar, Sénégal · Je transforme des idées métier en applications utiles et maintenables.</p>
 
-Ingénieur logiciel full-stack et praticien en science des données, diplômé de l'École Supérieure Polytechnique de Dakar. Je conçois des applications web complètes (Java / Spring Boot, Node.js, React / TypeScript), des APIs sécurisées et des pipelines CI/CD, avec une spécialisation en intelligence artificielle : agents autonomes, LLM et computer vision.
+  <a href="https://senghorserge.me">
+    <img src="https://img.shields.io/badge/Portfolio-senghorserge.me-111827?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://github.com/vladmaster3455?tab=repositories">
+    <img src="https://img.shields.io/badge/Projets-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Dépôts GitHub">
+  </a>
+  <a href="https://github.com/vladmaster3455">
+    <img src="https://komarev.com/ghpvc/?username=vladmaster3455&style=flat-square&color=2563eb&label=visites" alt="Visites du profil">
+  </a>
+</div>
 
-## Stack
+<br>
 
-- Backend : Java 17/21, Spring Boot, Node.js, Express, C# / .NET, APIs REST, JWT, microservices
-- Frontend : React, Next.js, TypeScript, TailwindCSS, Astro, interfaces responsive
-- IA & Data : Python, pandas, NumPy, LLM et agents, NLP, computer vision (YOLO), scikit-learn
-- DevOps : Docker, Docker Compose, GitHub Actions, GitLab CI/CD, PostgreSQL, MongoDB, Kafka
+## En quelques mots
 
-## Projets
+Je m'appelle Serge. Je conçois des applications web de bout en bout : une API claire, une interface simple à utiliser et un déploiement reproductible. Je travaille principalement avec Java/Spring Boot, Python, Node.js, React et TypeScript.
 
-| Projet | Description |
-|--------|-------------|
-| [bank_microservice](https://github.com/vladmaster3455/bank_microservice) | Plateforme bancaire en microservices : Spring Cloud, Eureka, API Gateway, Kafka, Keycloak, pattern outbox |
-| [monshop](https://github.com/vladmaster3455/monshop) | E-commerce Next.js/Prisma avec paiement Wave et Orange Money (Dexpay) |
-| [network](https://github.com/vladmaster3455/network) | Réseau social professionnel Django : profils, publications, messagerie, notifications |
-| [yango-backend](https://github.com/vladmaster3455/yango-backend) | API REST d'une app de mobilité : courses, historique, auth par PIN, Cloudinary |
-| [ai_analyser](https://github.com/vladmaster3455/ai_analyser) | Backend Django d'analyse de CV par IA avec pipeline asynchrone (Celery) |
-| [ecommerce_backend](https://github.com/vladmaster3455/ecommerce_backend) | Backend Django REST modulaire : catalogue, panier, commandes, paiement |
-| [vision-lab-streamlit](https://github.com/vladmaster3455/vision-lab-streamlit) | Outils de vision par ordinateur (YOLO, DETR) déployés sur Streamlit Cloud |
-| [Orchestrateur_v1](https://github.com/vladmaster3455/Orchestrateur_v1) | Orchestrateur d'agents IA (RAG, e-mail) avec interface Streamlit |
-| [siem](https://github.com/vladmaster3455/siem) | Classification de logs SIEVE (scikit-learn) |
+Je m'intéresse aussi aux sujets data et IA lorsqu'ils répondent à un besoin concret : classification de logs, vision par ordinateur, recherche documentaire ou automatisation de tâches. J'aime surtout comprendre le problème avant de choisir la technologie.
 
-## Vue d'ensemble
+## Ce que je construis
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Applications métier</h3>
+      APIs REST, authentification, paiements, traitements asynchrones et architectures modulaires.
+    </td>
+    <td width="50%" valign="top">
+      <h3>Interfaces web</h3>
+      React, Next.js, Angular et Astro pour des interfaces accessibles et adaptées au mobile.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Data & IA</h3>
+      Python, scikit-learn, computer vision, NLP et intégration de modèles dans des services utilisables.
+    </td>
+    <td width="50%" valign="top">
+      <h3>Livraison</h3>
+      Docker, bases SQL/NoSQL, CI/CD et documentation suffisamment précise pour reprendre un projet.
+    </td>
+  </tr>
+</table>
+
+## Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Java-17%2F21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+</p>
+
+## Projets à découvrir
+
+| Projet | Ce qu'il montre |
+| --- | --- |
+| [bank_microservice](https://github.com/vladmaster3455/bank_microservice) | Microservices Spring Cloud avec gateway, découverte de services, Kafka et Keycloak. |
+| [monshop](https://github.com/vladmaster3455/monshop) | Boutique Next.js/Prisma avec catalogue, panier et parcours de paiement. |
+| [network](https://github.com/vladmaster3455/network) | Réseau social Django avec profils, publications, messagerie et notifications. |
+| [ai_analyser](https://github.com/vladmaster3455/ai_analyser) | Service Django qui analyse des CV avec traitement asynchrone Celery. |
+| [vision-lab-streamlit](https://github.com/vladmaster3455/vision-lab-streamlit) | Expérimentations de vision par ordinateur présentées dans une interface Streamlit. |
+| [siem](https://github.com/vladmaster3455/siem) | Pipeline de classification de logs et évaluation de modèles. |
+
+<p><a href="https://github.com/vladmaster3455?tab=repositories">Voir tous les dépôts →</a></p>
+
+## Statistiques
+
+<div align="center">
+  <a href="https://github.com/vladmaster3455">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=vladmaster3455&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=2563eb&icon_color=2563eb&text_color=6b7280" alt="Statistiques GitHub de Serge">
+  </a>
+  <a href="https://github.com/vladmaster3455">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladmaster3455&layout=compact&hide_border=true&theme=transparent&title_color=2563eb&text_color=6b7280&langs_count=8" alt="Langages les plus utilisés">
+  </a>
+</div>
+
+## Contributions
+
+L'animation ci-dessous est produite par GitHub Actions une fois par jour à partir de mon calendrier de contributions. Le workflow est visible dans [`snake.yml`](.github/workflows/snake.yml).
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vladmaster3455/vladmaster3455/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vladmaster3455/vladmaster3455/output/github-contribution-grid-snake.svg">
+  <img alt="Animation du calendrier de contributions GitHub" src="https://raw.githubusercontent.com/vladmaster3455/vladmaster3455/output/github-contribution-grid-snake.svg">
+</picture>
+
+## Me contacter
+
+Je suis ouvert aux échanges autour du développement logiciel, de la data et des missions freelance ou salariées.
 
 - Portfolio : [senghorserge.me](https://senghorserge.me)
-
-- Statut : ouvert aux CDI, CDD et missions freelance, en remote ou sur site
+- GitHub : [@vladmaster3455](https://github.com/vladmaster3455)
