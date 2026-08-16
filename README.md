@@ -81,10 +81,7 @@ Je m'intéresse aussi aux sujets data et IA lorsqu'ils répondent à un besoin c
 
 <div align="center">
   <a href="https://github.com/vladmaster3455">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=vladmaster3455&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=2563eb&icon_color=2563eb&text_color=6b7280" alt="Statistiques GitHub de Serge">
-  </a>
-  <a href="https://github.com/vladmaster3455">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladmaster3455&layout=compact&hide_border=true&theme=transparent&title_color=2563eb&text_color=6b7280&langs_count=8" alt="Langages les plus utilisés">
+    <img src="https://streak-stats.demolab.com/?user=vladmaster3455&theme=transparent&hide_border=true&border_radius=6" alt="Série de contributions GitHub de Serge">
   </a>
 </div>
 
