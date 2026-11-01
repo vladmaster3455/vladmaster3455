@@ -1,11 +1,8 @@
 <div align="center">
-  <h1>Serge Senghor</h1>
+  <h1>ShinraMaster</h1>
   <p><strong>Ingénieur logiciel full-stack · Data & IA</strong></p>
-  <p>Dakar, Sénégal · Je transforme des idées métier en applications utiles et maintenables.</p>
+  <p>Je transforme des idées métier en applications utiles et maintenables.</p>
 
-  <a href="https://senghorserge.me">
-    <img src="https://img.shields.io/badge/Portfolio-senghorserge.me-111827?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio">
-  </a>
   <a href="https://github.com/vladmaster3455?tab=repositories">
     <img src="https://img.shields.io/badge/Projets-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Dépôts GitHub">
   </a>
@@ -18,7 +15,7 @@
 
 ## En quelques mots
 
-Je m'appelle Serge. Je conçois des applications web de bout en bout : une API claire, une interface simple à utiliser et un déploiement reproductible. Je travaille principalement avec Java/Spring Boot, Python, Node.js, React et TypeScript.
+Je conçois des applications web de bout en bout : une API claire, une interface simple à utiliser et un déploiement reproductible. Je travaille principalement avec Java/Spring Boot, Python, Node.js, React et TypeScript.
 
 Je m'intéresse aussi aux sujets data et IA lorsqu'ils répondent à un besoin concret : classification de logs, vision par ordinateur, recherche documentaire ou automatisation de tâches. J'aime surtout comprendre le problème avant de choisir la technologie.
 
@@ -81,7 +78,7 @@ Je m'intéresse aussi aux sujets data et IA lorsqu'ils répondent à un besoin c
 
 <div align="center">
   <a href="https://github.com/vladmaster3455">
-    <img src="https://streak-stats.demolab.com/?user=vladmaster3455&theme=transparent&hide_border=true&border_radius=6" alt="Série de contributions GitHub de Serge">
+    <img src="https://streak-stats.demolab.com/?user=vladmaster3455&theme=transparent&hide_border=true&border_radius=6" alt="Série de contributions GitHub">
   </a>
 </div>
 
@@ -99,5 +96,4 @@ L'animation ci-dessous est produite par GitHub Actions une fois par jour à part
 
 Je suis ouvert aux échanges autour du développement logiciel, de la data et des missions freelance ou salariées.
 
-- Portfolio : [senghorserge.me](https://senghorserge.me)
 - GitHub : [@vladmaster3455](https://github.com/vladmaster3455)
